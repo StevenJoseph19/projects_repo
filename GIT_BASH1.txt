@@ -1,0 +1,1 @@
+Testing Local Git repository -1 pass.
